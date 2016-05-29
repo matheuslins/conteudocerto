@@ -25,7 +25,7 @@ SECRET_KEY = '3(+!i86bcp-3ffnc#n3hku8@a5*zdj9n^0tuueqqsdmz3sxh4a'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['www.conteudocerto.com','conteudocerto.com']
 
 
 # Application definition
