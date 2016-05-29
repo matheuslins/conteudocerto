@@ -1,1 +1,1 @@
-web: gunicorn matheuslins_com.wsgi --log-file -
+web: gunicorn conteudocerto.wsgi --log-file -
