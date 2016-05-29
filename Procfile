@@ -1,0 +1,1 @@
+web: gunicorn matheuslins_com.wsgi --log-file -
